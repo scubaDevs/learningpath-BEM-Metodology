@@ -9,10 +9,12 @@
 }
 
 .list__item__color1{
+.list__item--color1{
 
     color: red;
 }
 .list__item__color2{
+.list__item--color2{
 
     color: rgb(0, 255, 242);
 }
