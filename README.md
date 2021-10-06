@@ -11,3 +11,20 @@
 
  Just class can be used
  The block class on css must be away separate from other classes.
+
+ .block {
+
+ };
+ ok
+
+ .block__item{
+
+
+ }; 
+ ok
+
+.block .block__item{
+
+};
+NOT OK on BEM rulles.
+The scss is more readable with hierarchy
