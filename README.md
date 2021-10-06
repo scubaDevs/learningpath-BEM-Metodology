@@ -7,4 +7,7 @@
 
  Modifier = Change the css from a previus status to one other.
 
- 
+ Block:
+
+ Just class can be used
+ The block class on css must be away separate from other classes.
